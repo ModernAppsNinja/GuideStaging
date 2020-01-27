@@ -10,7 +10,7 @@ For the Hackathon, you can simply come up with a unique name for your content, g
 
 When you post your hackathon document, there are no required templates to use, however all documents need to be in markdown format and be organized well enough to where others can easily follow along without confusion. 
 
-# Learn Git, and earn github commits on your public profile while hacking!
+## Learn Git, and earn github commits on your public profile while hacking!
 
 If you are new to Git, there are several easy ways to get started. First, there is an in-browser editor that makes editing documents right on github very easy - you can see the [Validate a Lab Guide](https://github.com/CNA-Tech/PKS-Ninja/tree/master/LabGuides/ValidationStamp-VS9927) for an overview of the process. 
 
