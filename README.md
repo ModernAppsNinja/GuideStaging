@@ -6,7 +6,7 @@ This repo can be used both by course or lab guide creators, or for individuals w
 
 ## Welcome Hackathon Participants!
 
-For the Hackathon, you can simply come up with a unique name for your content, git clone this repository, and then create a folder with the title of your document. For example https://github.com/modernappsninja/guidestaging/{mydirectoryname}. 
+For the Hackathon, you can simply come up with a unique name for your content, use the github ui or git fork/clone to add your content to. For example 'https://github.com/modernappsninja/guidestaging/{mydirectoryname}/{mylabguide.md}' 
 
 When you post your hackathon document, there are no required templates to use, however all documents need to be in markdown format and be organized well enough to where others can easily follow along without confusion. Please see the [Sample Markdown Template](https://github.com/ModernAppsNinja/GuideStaging/blob/master/sample.md)for a reference, feel free to copy and modify the template if you like it. 
 
