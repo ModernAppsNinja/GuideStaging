@@ -1,0 +1,30 @@
+# Lab Guides
+
+**Please Note: You are viewing the PKS 1.4 branch of the PKS Ninja Repo, which is currently aligned with PKS NinjaLab template version 12. If you are using a different version, please switch to the branch for your version**
+
+- [Introduction to Kubernetes with Planespotter](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/IntroToK8sPlaneSpotter-IK9674)
+- [PKS Install Phase 1](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksInstallPhase1-IN3138)
+- [PKS Install Phase 2](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksInstallPhase2-IN1916)
+- [Introduction to Harbor](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/IntroToHarbor-IH7914)
+- [Deploy First Cluster](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/DeployFirstCluster-DC1610)
+- [Access First Cluster](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/AccessFirstCluster-AC6818)
+- [PKS Storage and Persistence 1](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksStorageAndPersist-SP7357)
+- [PKS Wavefront Integration 1](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksWavefrontInt-WA9983)
+- [PKS Monitoring and Operations 1](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksMonitoringAndOps-MO2189)
+- [NSXT Installation with Concourse Pipeline](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/NsxtPipelineInstall-IN7016)
+- [PKS Installation with Concourse Pipeline](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksPipelineInstall-IN2456)
+- [Harbor Installation with Concourse Pipeline](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/HarborPipelineInstal-IN4968)
+- [Introduction to GIT](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/IntroToGit-IG9099)
+- [Intro to Helm](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/IntroToHelm-HE4490)
+- [Deploy More Apps Labs](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/DeployMoreApps-DA6482)
+- [PKS Troubleshooting](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksTroubleshooting-PT8251)
+- [PKS Control Plane and BOSH](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PksControlPlaneBosh-CP3546)
+- [Deploy Planespotter](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/DeployPlanespotter-DP6539)
+- [Backup and Restore with Velero](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/PKSBackupVelero-PV3774)
+- [Kubernetes Replicasets](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/K8SReplicaSets-KR7417)
+- [Creating Your Student Folder](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/CreateStudentFolder-SF6361)
+- [Building your DevOps Workstation](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/DevopsWorkstation-DW5008)
+- [Setting Up your Contributor Repository](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/ContributorWorkspace-CW4267)
+- [NSX-T Manual Installation](https://github.com/CNA-Tech/PKS-Ninja/tree/Pks1.4/LabGuides/NsxtManualInstall-IN1497)
+
+A Course Catalog application is currently under development which will provide additional details and search/browse/filter capabilities. A mockup of the catalog data model can be found here: [PKS Ninja Site Data Models](https://docs.google.com/spreadsheets/d/1ZhozDjFc5TGcbKe6a4PZ0EU4uYCWJ-ujuG2GTP0Agrk/edit?usp=sharing)
